@@ -8,3 +8,4 @@ Este é um projeto que começou como um trabalho da disciplina de programação 
 * Arranjo manual ou randômico dos navios.
 * Utilização de caracteres escape colors.
 * Tabuleiro feito com caracteres ASCII de tabelas.
+* Utilização do padrão C11 da linguagem C.
