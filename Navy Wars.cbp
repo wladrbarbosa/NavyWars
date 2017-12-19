@@ -30,7 +30,7 @@
 		</Build>
 		<Compiler>
 			<Add option="-Wall" />
-			<Add option="-ansi" />
+			<Add option="-std=c11" />
 		</Compiler>
 		<Linker>
 			<Add library="C:/Program Files (x86)/CodeBlocks/MinGW/lib/libws2_32.a" />
