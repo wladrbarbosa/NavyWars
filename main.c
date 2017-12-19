@@ -4,9 +4,10 @@
 #include "Jogar.h"
 #include "Regras.h"
 
-/* Nome: Wladimir ROberto Barbosa       RA: 0040961713030
- Nome: Ricardo Moura Cunha            RA: 0040961713013
-
+/*
+    Nome: Wladimir Roberto Barbosa       RA: 0040961713030
+    Nome: Ricardo Moura Cunha            RA: 0040961713013
+    Nome: Hadston Nunes                  RA: 0040961713044 (tester)
 
  Função principal*/
 int main()
@@ -20,7 +21,7 @@ int main()
     setColors();
 
     /* Animação de início*/
-    splashCompleta();
+    splashCompleta(); //Aconteceu alguma coisa que não entendi -> http://prntscr.com/hpl748
 
     /* Loop para não finalizar o jogo após a escolha de uma opção.*/
     for (;;)
@@ -29,7 +30,7 @@ int main()
         clearScreen();
 
         /* Função para exibir a imagem/texto do jogo*/
-        splash1();
+        splash1(); //Aconteceu alguma coisa que não entendi -> http://prntscr.com/hpl748
 
         /* Saudação e menu principal*/
         printf("!!! Welcome to the Navy Wars !!!\n\n");
