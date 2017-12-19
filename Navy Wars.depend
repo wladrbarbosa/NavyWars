@@ -1,0 +1,274 @@
+# depslib dependency file v1.0
+1507245905 source:c:\users\lr19\desktop\navy wars\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<time.h>
+
+1507061244 source:c:\users\lr19\desktop\navy wars\regras.c
+	<stdio.h>
+	<stdlib.h>
+
+1507061244 source:c:\users\0040961713013\downloads\programação ii\navy wars\regras.c
+	<stdio.h>
+	<stdlib.h>
+
+1507060616 source:c:\users\0040961713013\downloads\programação ii\navy wars\logo.c
+	<stdio.h>
+	<stdlib.h>
+
+1507061006 source:c:\users\0040961713013\downloads\programação ii\navy wars\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1507060906 source:c:\users\0040961713013\downloads\programação ii\navy wars\jogar.c
+	<stdio.h>
+	<stdlib.h>
+
+1507060906 source:c:\users\0040961713013\downloads\programação ii\navy wars\ranking.c
+	<stdio.h>
+	<stdlib.h>
+
+1507153367 source:c:\users\lr19\desktop\navy wars\jogar.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<time.h>
+
+1507153368 source:c:\users\lr19\desktop\navy wars\logo.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<time.h>
+
+1507060906 source:c:\users\lr19\desktop\navy wars\ranking.c
+	<stdio.h>
+	<stdlib.h>
+
+1507245980 source:c:\users\0040961713013\downloads\navy wars\bg.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<time.h>
+
+1507153367 source:c:\users\0040961713013\downloads\navy wars\jogar.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<time.h>
+
+1507153368 source:c:\users\0040961713013\downloads\navy wars\logo.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<time.h>
+
+1507245905 source:c:\users\0040961713013\downloads\navy wars\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<time.h>
+
+1507245980 source:c:\users\lr19\desktop\navy wars\bg.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<time.h>
+
+1507245980 source:c:\users\wladimir\downloads\navy wars\bg.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<time.h>
+
+1508194030 source:c:\users\wladimir\downloads\navy wars\main.c
+	<stdio.h>
+	"Utils.h"
+	"Animacoes.h"
+	"Jogar.h"
+	"Regras.h"
+
+1507992082 c:\users\wladimir\downloads\navy wars\logo.h
+
+1508191603 c:\users\wladimir\downloads\navy wars\jogar.h
+	<time.h>
+	"Campo.h"
+
+1508192221 c:\users\wladimir\downloads\navy wars\utils.h
+	<stdlib.h>
+
+1508189620 c:\users\wladimir\downloads\navy wars\regras.h
+
+1507676036 c:\users\wladimir\downloads\navy wars\ranking.h
+	<stdio.h>
+
+1508189671 c:\users\wladimir\downloads\navy wars\campo.h
+
+1508193399 c:\users\wladimir\downloads\navy wars\animacoes.h
+	<windows.h>
+	<unistd.h>
+
+1508190430 source:c:\users\0040961713030\downloads\navywars - 1713030 - 1713013 - final\main.c
+	<stdio.h>
+	"Utils.h"
+	"Animacoes.h"
+	"Jogar.h"
+	"Regras.h"
+
+1508188621 c:\users\0040961713030\downloads\navywars - 1713030 - 1713013 - final\utils.h
+	<stdlib.h>
+
+1508189799 c:\users\0040961713030\downloads\navywars - 1713030 - 1713013 - final\animacoes.h
+	<windows.h>
+	<unistd.h>
+
+1508188003 c:\users\0040961713030\downloads\navywars - 1713030 - 1713013 - final\jogar.h
+	<time.h>
+	"Campo.h"
+
+1508798460 c:\users\0040961713030\downloads\navywars - 1713030 - 1713013 - final\campo.h
+
+1508186020 c:\users\0040961713030\downloads\navywars - 1713030 - 1713013 - final\regras.h
+
+1510265599 source:c:\users\0040961713030\downloads\navywars - 1713030 - 1713013 - final 2\main.c
+	<stdio.h>
+	"Utils.h"
+	"Animacoes.h"
+	"Jogar.h"
+	"Regras.h"
+
+1508188621 c:\users\0040961713030\downloads\navywars - 1713030 - 1713013 - final 2\utils.h
+	<stdlib.h>
+
+1508189799 c:\users\0040961713030\downloads\navywars - 1713030 - 1713013 - final 2\animacoes.h
+	<windows.h>
+	<unistd.h>
+
+1510266277 c:\users\0040961713030\downloads\navywars - 1713030 - 1713013 - final 2\jogar.h
+	<time.h>
+	"Campo.h"
+	"Ranking.h"
+
+1508798460 c:\users\0040961713030\downloads\navywars - 1713030 - 1713013 - final 2\campo.h
+
+1508186020 c:\users\0040961713030\downloads\navywars - 1713030 - 1713013 - final 2\regras.h
+
+1510266481 c:\users\0040961713030\downloads\navywars - 1713030 - 1713013 - final 2\ranking.h
+
+1510267918 source:c:\users\0040961713013\downloads\nova pasta\main.c
+	<stdio.h>
+	"Utils.h"
+	"Animacoes.h"
+	"Jogar.h"
+	"Regras.h"
+
+1508188621 c:\users\0040961713013\downloads\nova pasta\utils.h
+	<stdlib.h>
+
+1508189799 c:\users\0040961713013\downloads\nova pasta\animacoes.h
+	<windows.h>
+	<unistd.h>
+
+1510357608 c:\users\0040961713013\downloads\nova pasta\jogar.h
+	<time.h>
+	"Campo.h"
+	"Ranking.h"
+
+1508798460 c:\users\0040961713013\downloads\nova pasta\campo.h
+
+1510359871 c:\users\0040961713013\downloads\nova pasta\ranking.h
+
+1508186020 c:\users\0040961713013\downloads\nova pasta\regras.h
+
+1513203593 source:c:\users\0040961713030\downloads\main.c
+	<stdio.h>
+	"Utils.h"
+	"Animacoes.h"
+	"Jogar.h"
+	"Regras.h"
+
+1513203812 c:\users\0040961713030\downloads\utils.h
+	<stdlib.h>
+
+1508189799 c:\users\0040961713030\downloads\animacoes.h
+	<windows.h>
+	<unistd.h>
+
+1513203714 c:\users\0040961713030\downloads\jogar.h
+	<time.h>
+	"Campo.h"
+	"Ranking.h"
+
+1513203926 c:\users\0040961713030\downloads\campo.h
+
+1513203969 c:\users\0040961713030\downloads\ranking.h
+
+1508186020 c:\users\0040961713030\downloads\regras.h
+
+1513207193 source:c:\users\alpha7\downloads\navywars - alpha 6\main.c
+	<stdio.h>
+	"Utils.h"
+	"Animacoes.h"
+	"Jogar.h"
+	"Regras.h"
+
+1513207412 c:\users\alpha7\downloads\navywars - alpha 6\utils.h
+	<stdlib.h>
+
+1508193399 c:\users\alpha7\downloads\navywars - alpha 6\animacoes.h
+	<windows.h>
+	<unistd.h>
+
+1513372301 c:\users\alpha7\downloads\navywars - alpha 6\jogar.h
+	<time.h>
+	"Campo.h"
+	"Ranking.h"
+	"SocketCom.h"
+
+1513207526 c:\users\alpha7\downloads\navywars - alpha 6\campo.h
+
+1513207569 c:\users\alpha7\downloads\navywars - alpha 6\ranking.h
+
+1513372472 c:\users\alpha7\downloads\navywars - alpha 6\socketcom.h
+	<winsock2.h>
+
+1508189620 c:\users\alpha7\downloads\navywars - alpha 6\regras.h
+
+1513597776 source:c:\users\alpha7\downloads\navywars - alpha 7\main.c
+	<stdio.h>
+	"Utils.h"
+	"Animacoes.h"
+	"Jogar.h"
+	"Regras.h"
+
+1513207412 c:\users\alpha7\downloads\navywars - alpha 7\utils.h
+	<stdlib.h>
+
+1508193399 c:\users\alpha7\downloads\navywars - alpha 7\animacoes.h
+	<windows.h>
+	<unistd.h>
+
+1513598648 c:\users\alpha7\downloads\navywars - alpha 7\jogar.h
+	<time.h>
+	"Campo.h"
+	"Ranking.h"
+	"SocketCom.h"
+
+1513207526 c:\users\alpha7\downloads\navywars - alpha 7\campo.h
+
+1513207569 c:\users\alpha7\downloads\navywars - alpha 7\ranking.h
+
+1513374217 c:\users\alpha7\downloads\navywars - alpha 7\socketcom.h
+	<winsock2.h>
+
+1508189620 c:\users\alpha7\downloads\navywars - alpha 7\regras.h
+
