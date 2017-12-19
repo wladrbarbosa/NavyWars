@@ -4,4 +4,7 @@ Este é um projeto que começou como um trabalho da disciplina de programação 
 
 ## Recursos
 
-* 
+* Dual player numa mesma instância da aplicação.
+* Arranjo manual ou randômico dos navios.
+* Utilização de caracteres escape colors.
+* Tabuleiro feito com caracteres ASCII de tabelas.
