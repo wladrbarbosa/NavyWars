@@ -4,34 +4,36 @@
 #include "Jogar.h"
 #include "Regras.h"
 
-/* Nome: Wladimir ROberto Barbosa       RA: 0040961713030
- Nome: Ricardo Moura Cunha            RA: 0040961713013
+/*
+  Authors:
+  - wlad
+  - rika
+  - h4mn (tester)
 
-
- Função principal*/
+ Funï¿½ï¿½o principal*/
 int main()
 {
     /* tamL guarda a quantidade de linhas dos campos e tamC a quantidade de colunas*/
     int tamL, tamC;
-    /* variável para armazenar a escolha da opção do menu principal*/
+    /* variï¿½vel para armazenar a escolha da opï¿½ï¿½o do menu principal*/
     char menuchose;
 
-    /* Checa problema com cores e caracteres e tentar aplicar uma solução*/
+    /* Checa problema com cores e caracteres e tentar aplicar uma soluï¿½ï¿½o*/
     setColors();
 
-    /* Animação de início*/
-    splashCompleta();
+    /* Animaï¿½ï¿½o de inï¿½cio*/
+    splashCompleta(); //Aconteceu alguma coisa que nï¿½o entendi -> http://prntscr.com/hpl748
 
-    /* Loop para não finalizar o jogo após a escolha de uma opção.*/
+    /* Loop para nï¿½o finalizar o jogo apï¿½s a escolha de uma opï¿½ï¿½o.*/
     for (;;)
     {
         /* Limpa a tela*/
         clearScreen();
 
-        /* Função para exibir a imagem/texto do jogo*/
-        splash1();
+        /* Funï¿½ï¿½o para exibir a imagem/texto do jogo*/
+        splash1(); //Aconteceu alguma coisa que nï¿½o entendi -> http://prntscr.com/hpl748
 
-        /* Saudação e menu principal*/
+        /* Saudaï¿½ï¿½o e menu principal*/
         printf("!!! Welcome to the Navy Wars !!!\n\n");
         printf("****** Menu Principal ******\n\n");
         printf(" 1. Go to war!\n");
@@ -42,10 +44,10 @@ int main()
 
         /* Limpa o buffer do teclado*/
         cleanBuffer();
-        /* Recebe a opção do menu principal*/
+        /* Recebe a opï¿½ï¿½o do menu principal*/
         menuchose=getchar();
 
-        /* Tratamento da opção escolhida*/
+        /* Tratamento da opï¿½ï¿½o escolhida*/
         switch(menuchose)
         {
             case'1':

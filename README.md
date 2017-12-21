@@ -1,6 +1,6 @@
 # NavyWars
 
-Este é um projeto que começou como um trabalho da disciplina de programação II do curso de Jogos Digitais da FATEC Aericana e agora é usado para ousar e aprender um pouco mais de C. Consiste em um jogo de batalha naval feito em C no CodeBlocks para terminais de comando.
+Este é um projeto que começou como um trabalho da disciplina de Programação II do curso de Jogos Digitais da FATEC Americana e agora é usado para ousar e aprender um pouco mais de C. Consiste em um jogo de batalha naval feito em C no CodeBlocks para terminais de comando.
 
 ## Recursos
 
